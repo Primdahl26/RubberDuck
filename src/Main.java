@@ -100,7 +100,7 @@ public class Main {
 
             //Incrementing the steps field
             steps++;
-            System.out.println("\nStep number: "+steps);
+            System.out.println("\nStep number "+steps);
 
             // Creating randomQueueNumber to see what queue to remove (0-9)
             // So that we can get the placement of the queue on the ArrayList
